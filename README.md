@@ -56,7 +56,7 @@ The order of connecting the remaining monitors (HDMI and DisplayPort) **does not
 ## Visual Reference
 The connection diagram is located in the `docs` folder:
 
-![Connection Diagram](docs/Lighthouse_29_08_2024_20250108_183412_0000~2.jpg)
+![Connection Diagram](docs/Lighthouse_monitors4.jpg)
 
 ---
 
