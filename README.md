@@ -5,7 +5,7 @@ This guide explains how to connect a Lenovo laptop running Linux OS with **AMD G
 ---
 
 ## Introduction
-Below is a visual overview of the setup, illustrating the dock station, laptop, and connected monitors when not possible to set all 4 monitors in 60Hz (TBT monitor in 30Hz):
+Below is a visual overview of the setup, illustrating the problem, showing the dock station, laptop, and connected monitors when not possible to set all 4 monitors in 60Hz (TBT monitor in 30Hz):
 ![Setup Overview](docs/30hz.jpg)
 
 ---
