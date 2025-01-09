@@ -6,7 +6,6 @@ This guide explains how to connect a Lenovo laptop running Linux OS with **AMD G
 
 ## Introduction
 Below is a visual overview of the setup, illustrating the dock station, laptop, and connected monitors when not possible to set all 4 monitors in 60Hz (TBT monitor in 30Hz):
-
 ![Setup Overview](docs/30hz.jpg)
 
 ---
@@ -15,7 +14,6 @@ Below is a visual overview of the setup, illustrating the dock station, laptop, 
 
 ### **Step 1: Connect the Dock to the Laptop**
 Begin by securely connecting the dock station to your Lenovo laptop using the appropriate cable (usually USB-C or Thunderbolt). Ensure the dock station is powered on and recognized by your system.
-
 ![Step 1: Connect Dock to Laptop](docs/first.jpg)
 
 ---
@@ -45,7 +43,6 @@ The order of connecting the remaining monitors (HDMI and DisplayPort) **does not
 - DisplayPort (DP) ports for two monitors.
 
 While connecting one at a time is recommended for smoother setup, connecting them all at once is also fine.
-
 ![Step 3: Connect Remaining Monitors](docs/third.jpg)
 
 ---
@@ -57,8 +54,6 @@ While connecting one at a time is recommended for smoother setup, connecting the
    - Set the refresh rate to **60Hz**.
    - Arrange the monitors to match your physical setup.
 4. Apply the changes.
-
-![Step 4: Configure Monitors](docs/Step4_Configure.jpg)
 
 ---
 
@@ -73,8 +68,7 @@ While connecting one at a time is recommended for smoother setup, connecting the
 ---
 
 ## Visual Reference
-Additional diagrams and references are located in the `docs` folder:
-
+Additional diagrams and references are located in the `docs` folder. This is the desired state (all monitors in 60Hz):
 ![Connection Diagram](docs/Lighthouse_monitors4.jpg)
 
 ---
