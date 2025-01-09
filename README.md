@@ -69,7 +69,7 @@ While connecting one at a time is recommended for smoother setup, connecting the
 
 ## Visual Reference
 Additional diagrams and references are located in the `docs` folder. This is the desired state (all monitors in 60Hz):
-![Connection Diagram](docs/Lighthouse_monitors4.jpg)
+![Connection Diagram](docs/60hz.jpg)
 
 ---
 
