@@ -18,7 +18,7 @@ Begin by securely connecting the dock station to your Lenovo laptop using the ap
 
 ---
 
-### **Step 2: Connect the Thunderbolt (Tbt) Monitor**
+### **Step 2: Connect the Thunderbolt (TBT) Monitor**
 1. Connect the Thunderbolt monitor to the dock station. 
    - It should be connected **first**, **second**, or **third**.
    - **Important**: The Thunderbolt monitor **must not be the last monitor connected**.
